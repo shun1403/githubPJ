@@ -1,9 +1,3 @@
-/*************
-작성일자 : 2018.10.23
-작성자 : Kocaine
-게임이름 : Snake Game 1.2
-**************/
- 
 #include<stdio.h>
 #include<Windows.h>
 #include<conio.h>
